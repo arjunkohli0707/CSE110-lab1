@@ -22,8 +22,8 @@ These are my favourite programming languages:
 3. Java
 
 Some tasks I have to complete today are:
-- []attend research meeting
-- []go for club meeting (Sitaare)
+- [ ] attend research meeting
+- [ ] go for club meeting (Sitaare)
 
 Some git commands I have used for this lab are:
 ```
